@@ -1,59 +1,632 @@
 [
   {
-    "name": "Niclas Superlongsurname",
+    "name": "Lê Văn Thương",
     "class": "man",
+    "extra": {
+      "nickname": "Cường"
+    },
     "textClass": "emphasis",
     "marriages": [
       {
         "spouse": {
-          "name": "Iliana",
+          "name": "Nguyễn Thị Dày",
           "class": "woman",
-          "extra": {
-            "nickname": "Illi"
-          }
+          "textClass": "emphasis"
         },
         "children": [
           {
-            "name": "James",
+            "name": "Lê Văn Bờ",
             "class": "man",
+            "textClass": "emphasis",
             "marriages": [
               {
                 "spouse": {
-                  "name": "Alexandra",
+                  "name": "Nguyễn Thị Đính",
                   "class": "woman"
                 },
                 "children": [
                   {
-                    "name": "Eric",
+                    "name": "Lê Văn Phước",
+                    "class": "man",
+                    "textClass": "emphasis"
+                  },
+                  {
+                    "name": "Lê Văn Nhỏ",
                     "class": "man",
                     "marriages": [
                       {
                         "spouse": {
-                          "name": "Eva",
+                          "name": "Hạnh",
                           "class": "woman"
                         }
                       }
                     ]
                   },
                   {
-                    "name": "Jane",
-                    "class": "woman"
+                    "name": "Lê Văn Phú",
+                    "class": "man",
+                    "extra": {
+                      "nickname": "Đen"
+                    }
                   },
                   {
-                    "name": "Jasper",
+                    "name": "Lê Văn Xíu",
                     "class": "man"
                   },
                   {
-                    "name": "Emma",
+                    "name": "Lê Thị Bé",
+                    "class": "woman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Văn Thành",
+            "class": "man",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Nguyễn Thị Huê",
+                  "class": "woman"
+                },
+                "children": [
+                  {
+                    "name": "Lê Thị Ngọc Diệp",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Chan Thea",
+                          "class": "man"
+                        },
+                        "children": [
+                          {
+                            "name": "Chan Somaroth",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Lê Tin"
+                            }
+                          },
+                          {
+                            "name": "Chan Somanit",
+                            "class": "woman"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Trung Tiến",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Nguyễn Thị Hồng Thu",
+                          "class": "woman"
+                        },
+                        "children": [
+                          {
+                            "name": "Lê Thị Quỳnh Như",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Đen"
+                            }
+                          },
+                          {
+                            "name": "Lê Tiến Phát",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Seoul"
+                            }
+                          },
+                          {
+                            "name": "Lê Quỳnh An Nhiên",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Yên"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Thị Thanh Xuân",
+                    "class": "woman",
+                    "textClass": "emphasis"
+                  },
+                  {
+                    "name": "Lê Thị Bích Ngọc",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Phạm Hồng Thái",
+                          "class": "man"
+                        },
+                        "children": [
+                          {
+                            "name": "Phạm Thái Hưng",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Ken"
+                            }
+                          },
+                          {
+                            "name": "Phạm Ngọc Anh",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Yaourt"
+                            }
+                          },
+                          {
+                            "name": "Phạm Thái An",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Cà Rốt"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Trung Thắng",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Võ Thị Thúy Ni",
+                          "class": "woman"
+                        },
+                        "children": [
+                          {
+                            "name": "Lê Võ Minh Huy",
+                            "class": "man"
+                          },
+                          {
+                            "name": "Lê Ngọc Thảo Vy",
+                            "class": "woman"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Trung Hoàng",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Bùi Thị Phương Trâm",
+                          "class": "woman"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Thị Diệu Hiền",
+                    "class": "woman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Thị Hương",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Lê Tý",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Lê Tuấn",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Dương Thị Bé",
+                          "class": "woman"
+                        },
+                        "children": [
+                          {
+                            "name": "Lê Thị Thanh Thủy",
+                            "class": "woman"
+                          },
+                          {
+                            "name": "Lê Khả Nhi",
+                            "class": "woman"
+                          },
+                          {
+                            "name": "Lê Trung Tiến",
+                            "class": "man"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Như Hoài Nam",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Lê Thị Diệu Lành",
+                    "class": "woman",
+                    "extra": {
+                      "nickname": "Na Lê"
+                    },
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Nguyễn Tuấn Ngọc",
+                          "class": "man"
+                        },
+                        "children": [
+                          {
+                            "name": "Nguyễn Thị Minh Thư",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Su Si"
+                            }
+                          },
+                          {
+                            "name": "Nguyễn Phúc Sang",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Su Bin"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Thị Ái Ny",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Trần Quốc Bình",
+                          "class": "man",
+                          "extra": {
+                            "nickname": "Ben"
+                          }
+                        },
+                        "children": [
+                          {
+                            "name": "Trần Trung Kiên",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Coca"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Thị Bích Thủy",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Phạm Văn Bi",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Kim",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Ngọc",
                     "class": "woman"
                   },
                   {
-                    "name": "Julia",
+                    "name": "Thu",
                     "class": "woman"
                   },
                   {
-                    "name": "Jessica",
+                    "name": "Tuyết",
                     "class": "woman"
+                  },
+                  {
+                    "name": "Phụng",
+                    "class": "woman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Văn Được",
+            "class": "man",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Nguyễn Thị Hương",
+                  "class": "woman",
+                  "extra": {
+                    "nickname": "Ty"
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Lê Văn Mạnh",
+                    "class": "man",
+                    "extra": {
+                      "nickname": "Rin"
+                    },
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Nguyễn Thị Diệu",
+                          "class": "woman"
+                        },
+                        "children": [
+                          {
+                            "name": "Lê Văn Khôi Nguyên",
+                            "class": "man"
+                          },
+                          {
+                            "name": "Lê Phương Tuệ Anh",
+                            "class": "woman"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Thị Minh Tú",
+                    "class": "woman",
+                    "extra": {
+                      "nickname": "Chuột"
+                    },
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Lê Quang Pháp",
+                          "class": "man"
+                        },
+                        "children": [
+                          {
+                            "name": "Lê Gia Thiên Ân",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Rio"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Lê Văn Toàn",
+                    "class": "man"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Thị Huệ",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Trần Văn Lợi",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Trần Thị Minh",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Trịnh Đức Thụ",
+                          "class": "man"
+                        },
+                        "children": [
+                          {
+                            "name": "Trịnh Đức Giang",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Kai"
+                            }
+                          },
+                          {
+                            "name": "Trịnh Đức Hoàng Giang",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Kun"
+                            }
+                          },
+                          {
+                            "name": "Trịnh Hương Giang",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Ruby"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Trần Đức Dũng",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Phan Thị Hoài Thảo",
+                          "class": "woman",
+                          "extra": {
+                            "nickname": "Bi"
+                          }
+                        },
+                        "children": [
+                          {
+                            "name": "Trần Quốc Anh",
+                            "class": "man",
+                            "extra": {
+                              "nickname": "Tay Lười"
+                            }
+                          },
+                          {
+                            "name": "Trần Khả Nhi",
+                            "class": "woman",
+                            "extra": {
+                              "nickname": "Kha Lin"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Trần Huy Hoàng",
+                    "class": "man"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Thị Kim Oanh",
+            "class": "woman",
+            "extra": {
+              "nickname": "Mãi"
+            }
+          },
+          {
+            "name": "Lê Thị Hồng",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "<3",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Trần Xuân Phú",
+                    "class": "man"
+                  }
+                ]
+              },
+              {
+                "spouse": {
+                  "name": "Hùng",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Trần Gia Hy",
+                    "class": "woman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Văn Diễn",
+            "class": "man",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Trần Thị Kim Huệ",
+                  "class": "woman"
+                },
+                "children": [
+                  {
+                    "name": "Lê Thị Kim Dung",
+                    "class": "woman",
+                    "extra": {
+                      "nickname": "Na"
+                    }
+                  },
+                  {
+                    "name": "Lê Văn Hùng",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Lê Ngọc Bảo Nhi",
+                    "class": "woman",
+                    "extra": {
+                      "nickname": "Nhím"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Văn Hiếu",
+            "class": "man",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Trần Thị Thành",
+                  "class": "woman"
+                },
+                "children": [
+                  {
+                    "name": "Lê Thị Như Ý",
+                    "class": "woman"
+                  },
+                  {
+                    "name": "Lê Văn Tiến Đạt",
+                    "class": "man"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lê Thị Thảo",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Nguyễn Văn Hùng",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Nguyễn Văn Thái",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Nguyễn Văn Nghĩa",
+                    "class": "man"
+                  }
+                ]
+              },
+              {
+                "spouse": {
+                  "name": "Nguyễn Hoài Thương",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Nguyễn Lê Tâm An",
+                    "class": "woman"
+                  },
+                  {
+                    "name": "Nguyễn Lê Tâm Phúc",
+                    "class": "man",
+                    "extra": {
+                      "nickname": "Út"
+                    }
                   }
                 ]
               }
